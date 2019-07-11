@@ -1,0 +1,1 @@
+update prnsys_user set updatepwdate = '2018-10-17 01:49:59' where loginid = ')X11111111';update prnsys_user set updatepwdate = '2018-10-17 01:49:59' where loginid = ')X11111112';

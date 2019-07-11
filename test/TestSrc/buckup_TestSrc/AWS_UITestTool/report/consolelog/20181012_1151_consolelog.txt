@@ -1,0 +1,22 @@
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 34886
+Only local connections are allowed.
+情報: BrowserName=chrome Version=69.0.3497.100 Platform=XP [金 10 12 11:51:56 JST 2018]
+情報: Selenide v. 3.5.1 [金 10 12 11:51:56 JST 2018]
+情報: Selenium WebDriver v. 2.53.1 build time: 2016-06-30 19:26:09 [金 10 12 11:51:56 JST 2018]
+情報: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on XP (4139ccb19519c143a4cbedd6de7d1c22) [金 10 12 11:51:56 JST 2018]
+情報: Report for ファイル登録テスト(sbc.uitesttool.selenide.T01_WebUiResistTest)
++--------------------+----------------------------------------------------------------------+----------+----------+
+|Element             |Subject                                                               |Status    |ms.       |
++--------------------+----------------------------------------------------------------------+----------+----------+
+|open                |https://nwp.shcloudio.com/sharp_netprint/ja/top.aspx                  |PASS      |4361      |
+|#txtId              |set value(cpi.automata@gmail.com)                                     |PASS      |138       |
+|#txtPw              |set value(cpinfo00)                                                   |PASS      |113       |
+|#lnkLogin           |click()                                                               |PASS      |58        |
+|#chkReferenceDisable|press tab()                                                           |PASS      |68        |
+|#chkReferenceDisable|press enter()                                                         |PASS      |31        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |42        |
+|#Img6               |click()                                                               |PASS      |60        |
+|#id                 |get text()                                                            |FAIL      |4117      |
++--------------------+----------------------------------------------------------------------+----------+----------+
+ [金 10 12 11:53:32 JST 2018]
+警告: Augmenter should be applied to the instances of @Augmentable classes or previously augmented instances only [金 10 12 11:53:33 JST 2018]

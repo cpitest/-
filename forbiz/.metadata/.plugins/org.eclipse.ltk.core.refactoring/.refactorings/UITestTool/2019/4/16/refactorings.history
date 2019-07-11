@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ID7_2_Corptest_AdminLogin.java&apos; to &apos;UITestTool/src/test/java/sbc.uitesttool.selenide&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;UITestTool&apos;&#x0D;&#x0A;- 宛先要素: &apos;UITestTool/src/test/java/sbc.uitesttool.selenide&apos;&#x0D;&#x0A;- オリジナル要素: &apos;sbc.uitesttool.selenide.ID7_2_Corptest_AdminLogin.java&apos;" description="コンパイル単位をコピー" destination="/src\/test\/java&lt;sbc.uitesttool.selenide" element1="/src\/test\/java&lt;sbc.uitesttool.selenide{ID7_2_Corptest_AdminLogin.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1555484324633" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 31613
+Only local connections are allowed.
+情報: BrowserName=chrome Version=69.0.3497.100 Platform=XP [金 10 12 11:49:05 JST 2018]
+情報: Selenide v. 3.5.1 [金 10 12 11:49:05 JST 2018]
+情報: Selenium WebDriver v. 2.53.1 build time: 2016-06-30 19:26:09 [金 10 12 11:49:05 JST 2018]
+情報: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on XP (9f0dd4f83120e0aa767330540c86678d) [金 10 12 11:49:05 JST 2018]

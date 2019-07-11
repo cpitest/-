@@ -1,0 +1,219 @@
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 37943
+Only local connections are allowed.
+情報: BrowserName=chrome Version=69.0.3497.100 Platform=XP [木 10 11 16:26:36 JST 2018]
+情報: Selenide v. 3.5.1 [木 10 11 16:26:36 JST 2018]
+情報: Selenium WebDriver v. 2.53.1 build time: 2016-06-30 19:26:09 [木 10 11 16:26:36 JST 2018]
+情報: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on XP (0cdd2c1580be3f5ebd04b97046fc5c2f) [木 10 11 16:26:36 JST 2018]
+[1539242808.315][WARNING]: Timed out connecting to Chrome, retrying...
+[1539242814.439][WARNING]: Timed out connecting to Chrome, retrying...
+重大: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.02 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nar-clq088', ip: '10.36.252.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\CPI-148\AppData\Local\Temp\scoped_dir3244_24744}, takesHeapSnapshot=true, pageLoadStrategy=none, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0cdd2c1580be3f5ebd04b97046fc5c2f [木 10 11 16:26:58 JST 2018]
+[1539242820.456][WARNING]: Timed out connecting to Chrome, retrying...
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 31708
+Only local connections are allowed.
+情報: BrowserName=chrome Version=69.0.3497.100 Platform=XP [木 10 11 16:27:03 JST 2018]
+情報: Selenide v. 3.5.1 [木 10 11 16:27:03 JST 2018]
+情報: Selenium WebDriver v. 2.53.1 build time: 2016-06-30 19:26:09 [木 10 11 16:27:03 JST 2018]
+情報: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on XP (13a99343366f3a3dbabb1a137c4bac03) [木 10 11 16:27:03 JST 2018]
+重大: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.01 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nar-clq088', ip: '10.36.252.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\CPI-148\AppData\Local\Temp\scoped_dir3244_24744}, takesHeapSnapshot=true, pageLoadStrategy=none, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0cdd2c1580be3f5ebd04b97046fc5c2f [木 10 11 16:27:04 JST 2018]
+[1539242826.469][WARNING]: Timed out connecting to Chrome, retrying...
+重大: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.02 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nar-clq088', ip: '10.36.252.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\CPI-148\AppData\Local\Temp\scoped_dir3244_24744}, takesHeapSnapshot=true, pageLoadStrategy=none, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0cdd2c1580be3f5ebd04b97046fc5c2f [木 10 11 16:27:10 JST 2018]
+情報: Report for ファイル登録テスト(sbc.uitesttool.selenide.T01_WebUiResistTest)
++--------------------+----------------------------------------------------------------------+----------+----------+
+|Element             |Subject                                                               |Status    |ms.       |
++--------------------+----------------------------------------------------------------------+----------+----------+
+|open                |https://nwp.shcloudio.com/sharp_netprint/ja/top.aspx                  |PASS      |4040      |
+|#txtId              |set value(cpi.automata@gmail.com)                                     |FAIL      |6131      |
++--------------------+----------------------------------------------------------------------+----------+----------+
+ [木 10 11 16:27:10 JST 2018]
+警告: Augmenter should be applied to the instances of @Augmentable classes or previously augmented instances only [木 10 11 16:27:11 JST 2018]
+[1539242833.494][WARNING]: Timed out connecting to Chrome, retrying...
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.01 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nar-clq088', ip: '10.36.252.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\CPI-148\AppData\Local\Temp\scoped_dir3244_24744}, takesHeapSnapshot=true, pageLoadStrategy=none, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0cdd2c1580be3f5ebd04b97046fc5c2f
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:577)
+	at sbc.uitesttool.selenide.report.ScreenShot.takeScreenshot(ScreenShot.java:80)
+	at sbc.uitesttool.selenide.report.ScreenShot.takesScreenshot(ScreenShot.java:40)
+	at sbc.uitesttool.selenide.pageparts.SelenideTestWatcher.failed(SelenideTestWatcher.java:30)
+	at org.junit.rules.TestWatcher.failedQuietly(TestWatcher.java:84)
+	at org.junit.rules.TestWatcher.access$300(TestWatcher.java:46)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:62)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)
+[1539243230.714][WARNING]: Timed out connecting to Chrome, retrying...
+[1539243236.846][WARNING]: Timed out connecting to Chrome, retrying...
+重大: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.01 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nar-clq088', ip: '10.36.252.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\CPI-148\AppData\Local\Temp\scoped_dir13668_19486}, takesHeapSnapshot=true, pageLoadStrategy=none, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 13a99343366f3a3dbabb1a137c4bac03 [木 10 11 16:34:00 JST 2018]
+重大: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.01 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nar-clq088', ip: '10.36.252.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\CPI-148\AppData\Local\Temp\scoped_dir13668_19486}, takesHeapSnapshot=true, pageLoadStrategy=none, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 13a99343366f3a3dbabb1a137c4bac03 [木 10 11 16:34:04 JST 2018]
+[1539243246.886][WARNING]: Timed out connecting to Chrome, retrying...
+重大: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.01 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nar-clq088', ip: '10.36.252.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\CPI-148\AppData\Local\Temp\scoped_dir13668_19486}, takesHeapSnapshot=true, pageLoadStrategy=none, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 13a99343366f3a3dbabb1a137c4bac03 [木 10 11 16:34:10 JST 2018]
+情報: Report for ファイル登録テスト(sbc.uitesttool.selenide.T01_WebUiResistTest)
++--------------------+----------------------------------------------------------------------+----------+----------+
+|Element             |Subject                                                               |Status    |ms.       |
++--------------------+----------------------------------------------------------------------+----------+----------+
+|open                |https://nwp.shcloudio.com/sharp_netprint/ja/top.aspx                  |PASS      |4207      |
+|#txtId              |set value(cpi.automata@gmail.com)                                     |PASS      |142       |
+|#txtPw              |set value(cpinfo00)                                                   |PASS      |94        |
+|#lnkLogin           |click()                                                               |PASS      |52        |
+|#chkReferenceDisable|press tab()                                                           |PASS      |55        |
+|#chkReferenceDisable|press enter()                                                         |PASS      |27        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |33        |
+|#Img6               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |108       |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |69        |
+|#modal_Upload_img   |click()                                                               |PASS      |60        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |60        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |37        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |15        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |53        |
+|#Img12              |click()                                                               |PASS      |66        |
+|#Img15              |click()                                                               |PASS      |58        |
+|#Img6               |click()                                                               |PASS      |61        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |71        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |64        |
+|#modal_Upload_img   |click()                                                               |PASS      |57        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |52        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |57        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |66        |
+|#Img6               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |32        |
+|#ibtnUpload         |click()                                                               |PASS      |67        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |68        |
+|#modal_Upload_img   |click()                                                               |PASS      |68        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |65        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |30        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |10        |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |57        |
+|#Img12              |click()                                                               |PASS      |74        |
+|#Img15              |click()                                                               |PASS      |55        |
+|#Img6               |click()                                                               |PASS      |55        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |2044      |
+|#ibtnUpload         |click()                                                               |FAIL      |6128      |
++--------------------+----------------------------------------------------------------------+----------+----------+
+ [木 10 11 16:34:10 JST 2018]
+警告: Augmenter should be applied to the instances of @Augmentable classes or previously augmented instances only [木 10 11 16:34:11 JST 2018]
+[1539243253.924][WARNING]: Timed out connecting to Chrome, retrying...
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.02 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nar-clq088', ip: '10.36.252.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\CPI-148\AppData\Local\Temp\scoped_dir13668_19486}, takesHeapSnapshot=true, pageLoadStrategy=none, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 13a99343366f3a3dbabb1a137c4bac03
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:577)
+	at sbc.uitesttool.selenide.report.ScreenShot.takeScreenshot(ScreenShot.java:80)
+	at sbc.uitesttool.selenide.report.ScreenShot.takesScreenshot(ScreenShot.java:40)
+	at sbc.uitesttool.selenide.pageparts.SelenideTestWatcher.failed(SelenideTestWatcher.java:30)
+	at org.junit.rules.TestWatcher.failedQuietly(TestWatcher.java:84)
+	at org.junit.rules.TestWatcher.access$300(TestWatcher.java:46)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:62)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)

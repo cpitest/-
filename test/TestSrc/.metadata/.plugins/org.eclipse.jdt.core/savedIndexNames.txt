@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\UIAutomationTool\test\TestSrc\.metadata\.plugins\org.eclipse.jdt.core

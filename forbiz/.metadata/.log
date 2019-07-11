@@ -1,0 +1,237 @@
+!SESSION 2019-02-20 14:17:02.427 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product
+
+!ENTRY mergedoc.encoding 2 0 2019-02-20 14:23:12.652
+!MESSAGE リソース '/UITestTool/src/test/java/sbc/uitesttool/selenide/CopyOfCorpListTest.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2019-02-20 14:23:12.667
+!MESSAGE リソース '/UITestTool/src/test/java/sbc/uitesttool/selenide/CopyOfCorpListTest.java' が存在しません。
+!SESSION 2019-02-20 14:23:54.835 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-02-20 14:29:00.153
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-02-20 14:29:00.153
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-02-20 14:29:00.153
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-02-20 15:05:36.201
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-02-20 15:05:49.094
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-02-20 15:07:49.529
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-02-20 15:08:08.702
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SESSION 2019-02-20 15:10:25.357 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-02-20 15:11:06.967
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-02-20 15:11:06.967
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-02-20 15:11:06.967
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-02-20 15:11:09.790
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-02-20 15:12:09.164
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-02-20 15:12:34.670
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-02-20 15:14:49.310
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SESSION 2019-04-12 11:47:41.698 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-04-12 11:56:07.617
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-04-12 11:56:07.617
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2019-04-12 11:56:07.617
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-04-12 11:56:12.121
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-04-12 11:56:38.325
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-04-12 11:58:20.432
+!MESSAGE "ID7_1_CorpListTest の起動" 中に内部エラーが発生しました。
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localURL(JUnitLaunchConfigurationDelegate.java:675)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.entryString(JUnitLaunchConfigurationDelegate.java:664)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.addEntry(JUnitLaunchConfigurationDelegate.java:651)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate$ClasspathLocalizer.localizeClasspath(JUnitLaunchConfigurationDelegate.java:642)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:591)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:173)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:859)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)

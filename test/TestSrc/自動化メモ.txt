@@ -1,0 +1,27 @@
+■コンソールログ
+・コンソールに要素＋IDを出す方法
+　→@Rule
+    public TestRule report = new TextReport();
+
+・コンソールログをファイルに出力する方法
+　→実装するClassを右クリックし、実行の構成＞共通タブ＞出力にチェックを入れて
+　例）C:\Users\CPI-148\Documents\DeskTop\02.AutomationTool\TestSrc\forBizTest\report\${current_date}consolelog.txt
+　のように出力したいログの場所＋ログの名称を入力しておく。
+　※reportの下にファイルを掘って指定すると何故かエラーになり保存されない
+　※「追加」チェックボックスはONにする
+
+・実行失敗時にキャプチャを取得する
+ →@Rule
+    public SelenideTestWatcher watcher = new SelenideTestWatcher();
+　
+　PagepartsにSelenideTestWatcher.javaをコピペする
+　※設定しなくてもSelenideが勝手に”\build\reports\tests”にHTMLとpicを保存しているので二重実装になるが、
+　　デフォルトのエラースクショは日付がわからないので現状は一応実装してる
+
+・AssertionのConditionClassで要素の状態を確認することができる
+　https://qiita.com/EichiSanden/items/ea857b46cbf5435b0c3b
+　実装サンプル：AdminCorpLogin.java>表示文言が存在しないことを検証 Functionに実装済み
+
+
+
+参考：forBizTestプロジェクトに上記実装済み

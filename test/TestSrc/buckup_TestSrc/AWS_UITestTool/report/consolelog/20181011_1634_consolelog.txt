@@ -1,0 +1,1061 @@
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 29381
+Only local connections are allowed.
+情報: BrowserName=chrome Version=69.0.3497.100 Platform=XP [木 10 11 16:34:46 JST 2018]
+情報: Selenide v. 3.5.1 [木 10 11 16:34:46 JST 2018]
+情報: Selenium WebDriver v. 2.53.1 build time: 2016-06-30 19:26:09 [木 10 11 16:34:46 JST 2018]
+情報: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on XP (56467f6ba8281962ce7a86f60562ef8c) [木 10 11 16:34:46 JST 2018]
+情報: Report for ファイル登録テスト(sbc.uitesttool.selenide.T01_WebUiResistTest)
++--------------------+----------------------------------------------------------------------+----------+----------+
+|Element             |Subject                                                               |Status    |ms.       |
++--------------------+----------------------------------------------------------------------+----------+----------+
+|open                |https://nwp.shcloudio.com/sharp_netprint/ja/top.aspx                  |PASS      |4088      |
+|#txtId              |set value(cpi.automata@gmail.com)                                     |PASS      |130       |
+|#txtPw              |set value(cpinfo00)                                                   |PASS      |85        |
+|#lnkLogin           |click()                                                               |PASS      |57        |
+|#chkReferenceDisable|press tab()                                                           |PASS      |57        |
+|#chkReferenceDisable|press enter()                                                         |PASS      |31        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |41        |
+|#Img6               |click()                                                               |PASS      |65        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |104       |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |64        |
+|#modal_Upload_img   |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |54        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |30        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |9         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |52        |
+|#Img12              |click()                                                               |PASS      |67        |
+|#Img15              |click()                                                               |PASS      |84        |
+|#Img6               |click()                                                               |PASS      |62        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |38        |
+|#ibtnUpload         |click()                                                               |PASS      |75        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |61        |
+|#modal_Upload_img   |click()                                                               |PASS      |55        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |56        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |57        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |15        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |9         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |58        |
+|#Img12              |click()                                                               |PASS      |62        |
+|#Img15              |click()                                                               |PASS      |52        |
+|#Img6               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |69        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |64        |
+|#modal_Upload_img   |click()                                                               |PASS      |64        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |69        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |9         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |81        |
+|#Img12              |click()                                                               |PASS      |77        |
+|#Img15              |click()                                                               |PASS      |61        |
+|#Img6               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |77        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |60        |
+|#modal_Upload_img   |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |5055      |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |30        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |9         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |5061      |
+|#Img12              |click()                                                               |PASS      |5070      |
+|#Img15              |click()                                                               |PASS      |60        |
+|#Img7               |click()                                                               |PASS      |55        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |29        |
+|#ibtnUpload         |click()                                                               |PASS      |54        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |55        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |28        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |74        |
+|#Img12              |click()                                                               |PASS      |69        |
+|#Img15              |click()                                                               |PASS      |67        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |30        |
+|#Img7               |click()                                                               |PASS      |55        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |31        |
+|#ibtnUpload         |click()                                                               |PASS      |85        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |65        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |42        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |52        |
+|#Img12              |click()                                                               |PASS      |63        |
+|#Img15              |click()                                                               |PASS      |55        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |43        |
+|#Img6               |click()                                                               |PASS      |48        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |33        |
+|#ibtnUpload         |click()                                                               |PASS      |64        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |61        |
+|#modal_Upload_img   |click()                                                               |PASS      |77        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |48        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |43        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |50        |
+|#Img12              |click()                                                               |PASS      |80        |
+|#Img15              |click()                                                               |PASS      |68        |
+|#Img6               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |37        |
+|#ibtnUpload         |click()                                                               |PASS      |74        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |70        |
+|#modal_Upload_img   |click()                                                               |PASS      |61        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |5069      |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |28        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |5072      |
+|#Img12              |click()                                                               |PASS      |5095      |
+|#Img15              |click()                                                               |PASS      |5093      |
+|#Img6               |click()                                                               |PASS      |5058      |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |5223      |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |58        |
+|#modal_Upload_img   |click()                                                               |PASS      |5098      |
+|#ImgFinishJavaScript|click()                                                               |PASS      |5058      |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |61        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |18        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |5079      |
+|#Img12              |click()                                                               |PASS      |5088      |
+|#Img15              |click()                                                               |PASS      |5075      |
+|#Img6               |click()                                                               |PASS      |5067      |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |31        |
+|#ibtnUpload         |click()                                                               |PASS      |5266      |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |62        |
+|#modal_Upload_img   |click()                                                               |PASS      |5056      |
+|#ImgFinishJavaScript|click()                                                               |PASS      |5052      |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |44        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |5063      |
+|#Img12              |click()                                                               |PASS      |5073      |
+|#Img15              |click()                                                               |PASS      |5065      |
+|#Img7               |click()                                                               |PASS      |5061      |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |41        |
+|#ibtnUpload         |click()                                                               |PASS      |5212      |
+|#ImgFinishJavaScript|click()                                                               |PASS      |5056      |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |36        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |5085      |
+|#Img12              |click()                                                               |PASS      |5064      |
+|#Img15              |click()                                                               |PASS      |5066      |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |31        |
+|#Img7               |click()                                                               |PASS      |5080      |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |37        |
+|#ibtnUpload         |click()                                                               |PASS      |5251      |
+|#ImgFinishJavaScript|click()                                                               |PASS      |5068      |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |27        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |5059      |
+|#Img12              |click()                                                               |PASS      |5063      |
+|#Img15              |click()                                                               |PASS      |5073      |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |38        |
+|#Img6               |click()                                                               |PASS      |5052      |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |57        |
+|#ibtnUpload         |click()                                                               |PASS      |5273      |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |59        |
+|#modal_Upload_img   |click()                                                               |PASS      |5071      |
+|#ImgFinishJavaScript|click()                                                               |PASS      |5060      |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |30        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |5062      |
+|#Img12              |click()                                                               |PASS      |5099      |
+|#Img15              |click()                                                               |PASS      |5077      |
+|#Img6               |click()                                                               |PASS      |5056      |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |5284      |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |63        |
+|#modal_Upload_img   |click()                                                               |PASS      |5061      |
+|#ImgFinishJavaScript|click()                                                               |PASS      |5077      |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |33        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |10        |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |69        |
+|#Img12              |click()                                                               |PASS      |66        |
+|#Img15              |click()                                                               |PASS      |63        |
+|#Img6               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |68        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |62        |
+|#modal_Upload_img   |click()                                                               |PASS      |51        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |69        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |43        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |50        |
+|#Img12              |click()                                                               |PASS      |72        |
+|#Img15              |click()                                                               |PASS      |50        |
+|#Img6               |click()                                                               |PASS      |52        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |86        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |88        |
+|#modal_Upload_img   |click()                                                               |PASS      |61        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |47        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |45        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |58        |
+|#Img12              |click()                                                               |PASS      |66        |
+|#Img15              |click()                                                               |PASS      |57        |
+|#Img7               |click()                                                               |PASS      |61        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |32        |
+|#ibtnUpload         |click()                                                               |PASS      |52        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |55        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |26        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |58        |
+|#Img12              |click()                                                               |PASS      |57        |
+|#Img15              |click()                                                               |PASS      |60        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |29        |
+|#Img7               |click()                                                               |PASS      |50        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |78        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |51        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |43        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |53        |
+|#Img12              |click()                                                               |PASS      |73        |
+|#Img15              |click()                                                               |PASS      |63        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |32        |
+|#Img6               |click()                                                               |PASS      |68        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |52        |
+|#ibtnUpload         |click()                                                               |PASS      |69        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |62        |
+|#modal_Upload_img   |click()                                                               |PASS      |63        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |52        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |34        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |51        |
+|#Img12              |click()                                                               |PASS      |67        |
+|#Img15              |click()                                                               |PASS      |52        |
+|#Img6               |click()                                                               |PASS      |50        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |76        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |71        |
+|#modal_Upload_img   |click()                                                               |PASS      |51        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |76        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |33        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |58        |
+|#Img12              |click()                                                               |PASS      |63        |
+|#Img15              |click()                                                               |PASS      |53        |
+|#Img6               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |33        |
+|#ibtnUpload         |click()                                                               |PASS      |73        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |68        |
+|#modal_Upload_img   |click()                                                               |PASS      |59        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |53        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |34        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |78        |
+|#Img12              |click()                                                               |PASS      |57        |
+|#Img15              |click()                                                               |PASS      |77        |
+|#Img6               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |69        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |59        |
+|#modal_Upload_img   |click()                                                               |PASS      |76        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |67        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |34        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |49        |
+|#Img12              |click()                                                               |PASS      |89        |
+|#Img15              |click()                                                               |PASS      |59        |
+|#Img7               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |31        |
+|#ibtnUpload         |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |64        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |29        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |59        |
+|#Img12              |click()                                                               |PASS      |59        |
+|#Img15              |click()                                                               |PASS      |56        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |34        |
+|#Img7               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |39        |
+|#ibtnUpload         |click()                                                               |PASS      |56        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |51        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |40        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |58        |
+|#Img12              |click()                                                               |PASS      |65        |
+|#Img15              |click()                                                               |PASS      |51        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |27        |
+|#Img6               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |72        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |57        |
+|#modal_Upload_img   |click()                                                               |PASS      |63        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |53        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |34        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |50        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |52        |
+|#Img6               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |70        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |66        |
+|#modal_Upload_img   |click()                                                               |PASS      |64        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |52        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |32        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |48        |
+|#Img12              |click()                                                               |PASS      |81        |
+|#Img15              |click()                                                               |PASS      |62        |
+|#Img6               |click()                                                               |PASS      |55        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |58        |
+|#ibtnUpload         |click()                                                               |PASS      |62        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |79        |
+|#modal_Upload_img   |click()                                                               |PASS      |63        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |72        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |29        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |49        |
+|#Img12              |click()                                                               |PASS      |71        |
+|#Img15              |click()                                                               |PASS      |77        |
+|#Img6               |click()                                                               |PASS      |51        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |64        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |60        |
+|#modal_Upload_img   |click()                                                               |PASS      |64        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |55        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |42        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |53        |
+|#Img12              |click()                                                               |PASS      |63        |
+|#Img15              |click()                                                               |PASS      |67        |
+|#Img7               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |40        |
+|#ibtnUpload         |click()                                                               |PASS      |50        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |56        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |27        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |54        |
+|#Img12              |click()                                                               |PASS      |66        |
+|#Img15              |click()                                                               |PASS      |56        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |50        |
+|#Img7               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |53        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |33        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |53        |
+|#Img12              |click()                                                               |PASS      |58        |
+|#Img15              |click()                                                               |PASS      |63        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |28        |
+|#Img6               |click()                                                               |PASS      |51        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |72        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |66        |
+|#modal_Upload_img   |click()                                                               |PASS      |65        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |55        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |28        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |53        |
+|#Img12              |click()                                                               |PASS      |56        |
+|#Img15              |click()                                                               |PASS      |51        |
+|#Img6               |click()                                                               |PASS      |57        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |63        |
+|#ibtnUpload         |click()                                                               |PASS      |66        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |59        |
+|#modal_Upload_img   |click()                                                               |PASS      |93        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |53        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |25        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |65        |
+|#Img12              |click()                                                               |PASS      |65        |
+|#Img15              |click()                                                               |PASS      |63        |
+|#Img6               |click()                                                               |PASS      |63        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |68        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |61        |
+|#modal_Upload_img   |click()                                                               |PASS      |63        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |52        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |26        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |48        |
+|#Img12              |click()                                                               |PASS      |66        |
+|#Img15              |click()                                                               |PASS      |79        |
+|#Img6               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |37        |
+|#ibtnUpload         |click()                                                               |PASS      |73        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |61        |
+|#modal_Upload_img   |click()                                                               |PASS      |64        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |62        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |41        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |54        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |60        |
+|#Img7               |click()                                                               |PASS      |64        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |56        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |50        |
+|#Img12              |click()                                                               |PASS      |68        |
+|#Img15              |click()                                                               |PASS      |50        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |52        |
+|#Img7               |click()                                                               |PASS      |79        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |32        |
+|#ibtnUpload         |click()                                                               |PASS      |52        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |63        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |45        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |16        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |46        |
+|#Img12              |click()                                                               |PASS      |63        |
+|#Img15              |click()                                                               |PASS      |54        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |40        |
+|#Img6               |click()                                                               |PASS      |46        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |31        |
+|#ibtnUpload         |click()                                                               |PASS      |65        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |84        |
+|#modal_Upload_img   |click()                                                               |PASS      |60        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |77        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |28        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |48        |
+|#Img12              |click()                                                               |PASS      |68        |
+|#Img15              |click()                                                               |PASS      |56        |
+|#Img6               |click()                                                               |PASS      |78        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |32        |
+|#ibtnUpload         |click()                                                               |PASS      |63        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |66        |
+|#modal_Upload_img   |click()                                                               |PASS      |56        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |50        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |47        |
+|#Img12              |click()                                                               |PASS      |62        |
+|#Img15              |click()                                                               |PASS      |61        |
+|#Img6               |click()                                                               |PASS      |67        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |73        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |83        |
+|#modal_Upload_img   |click()                                                               |PASS      |52        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |53        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |29        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |80        |
+|#Img12              |click()                                                               |PASS      |60        |
+|#Img15              |click()                                                               |PASS      |53        |
+|#Img6               |click()                                                               |PASS      |55        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |51        |
+|#ibtnUpload         |click()                                                               |PASS      |63        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |68        |
+|#modal_Upload_img   |click()                                                               |PASS      |69        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |48        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |56        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |50        |
+|#Img12              |click()                                                               |PASS      |72        |
+|#Img15              |click()                                                               |PASS      |83        |
+|#Img7               |click()                                                               |PASS      |59        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |38        |
+|#ibtnUpload         |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |49        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |29        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |61        |
+|#Img12              |click()                                                               |PASS      |71        |
+|#Img15              |click()                                                               |PASS      |53        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |41        |
+|#Img7               |click()                                                               |PASS      |49        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |49        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |57        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |49        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |55        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |52        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |34        |
+|#Img6               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |46        |
+|#ibtnUpload         |click()                                                               |PASS      |90        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |68        |
+|#modal_Upload_img   |click()                                                               |PASS      |50        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |49        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |34        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |48        |
+|#Img12              |click()                                                               |PASS      |69        |
+|#Img15              |click()                                                               |PASS      |50        |
+|#Img6               |click()                                                               |PASS      |61        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |89        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |64        |
+|#modal_Upload_img   |click()                                                               |PASS      |62        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |55        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |55        |
+|#Img12              |click()                                                               |PASS      |86        |
+|#Img15              |click()                                                               |PASS      |75        |
+|#Img6               |click()                                                               |PASS      |49        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |66        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |54        |
+|#modal_Upload_img   |click()                                                               |PASS      |52        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |65        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |33        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |59        |
+|#Img12              |click()                                                               |PASS      |58        |
+|#Img15              |click()                                                               |PASS      |62        |
+|#Img6               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |29        |
+|#ibtnUpload         |click()                                                               |PASS      |71        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |64        |
+|#modal_Upload_img   |click()                                                               |PASS      |62        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |54        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |28        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |59        |
+|#Img12              |click()                                                               |PASS      |58        |
+|#Img15              |click()                                                               |PASS      |52        |
+|#Img7               |click()                                                               |PASS      |51        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |30        |
+|#ibtnUpload         |click()                                                               |PASS      |51        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |52        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |26        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |51        |
+|#Img12              |click()                                                               |PASS      |70        |
+|#Img15              |click()                                                               |PASS      |53        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |31        |
+|#Img7               |click()                                                               |PASS      |66        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |28        |
+|#ibtnUpload         |click()                                                               |PASS      |59        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |61        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |32        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |79        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |77        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |32        |
+|#Img6               |click()                                                               |PASS      |46        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |79        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |77        |
+|#modal_Upload_img   |click()                                                               |PASS      |56        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |54        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |30        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |58        |
+|#Img12              |click()                                                               |PASS      |87        |
+|#Img15              |click()                                                               |PASS      |63        |
+|#Img6               |click()                                                               |PASS      |79        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |40        |
+|#ibtnUpload         |click()                                                               |PASS      |70        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |53        |
+|#modal_Upload_img   |click()                                                               |PASS      |83        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |56        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |50        |
+|#Img12              |click()                                                               |PASS      |66        |
+|#Img15              |click()                                                               |PASS      |61        |
+|#Img6               |click()                                                               |PASS      |49        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |44        |
+|#ibtnUpload         |click()                                                               |PASS      |66        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |66        |
+|#modal_Upload_img   |click()                                                               |PASS      |51        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |48        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |36        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |6         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |56        |
+|#Img12              |click()                                                               |PASS      |72        |
+|#Img15              |click()                                                               |PASS      |62        |
+|#Img6               |click()                                                               |PASS      |61        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |57        |
+|#ibtnUpload         |click()                                                               |PASS      |64        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |68        |
+|#modal_Upload_img   |click()                                                               |PASS      |62        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |63        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |41        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |5         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |56        |
+|#Img12              |click()                                                               |PASS      |91        |
+|#Img15              |click()                                                               |PASS      |78        |
+|#Img7               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |38        |
+|#ibtnUpload         |click()                                                               |PASS      |54        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |64        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |34        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |50        |
+|#Img12              |click()                                                               |PASS      |72        |
+|#Img15              |click()                                                               |PASS      |63        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |26        |
+|#Img7               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |28        |
+|#ibtnUpload         |click()                                                               |PASS      |50        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |56        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |49        |
+|#Img12              |click()                                                               |PASS      |63        |
+|#Img15              |click()                                                               |PASS      |51        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |40        |
+|#Img6               |click()                                                               |PASS      |57        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |68        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |57        |
+|#modal_Upload_img   |click()                                                               |PASS      |65        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |54        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |6         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |57        |
+|#Img12              |click()                                                               |PASS      |62        |
+|#Img15              |click()                                                               |PASS      |49        |
+|#Img6               |click()                                                               |PASS      |81        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |31        |
+|#ibtnUpload         |click()                                                               |PASS      |66        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |65        |
+|#modal_Upload_img   |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |61        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |28        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |57        |
+|#Img12              |click()                                                               |PASS      |89        |
+|#Img15              |click()                                                               |PASS      |52        |
+|#Img6               |click()                                                               |PASS      |55        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |30        |
+|#ibtnUpload         |click()                                                               |PASS      |69        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |66        |
+|#modal_Upload_img   |click()                                                               |PASS      |59        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |57        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |27        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |56        |
+|#Img12              |click()                                                               |PASS      |59        |
+|#Img15              |click()                                                               |PASS      |50        |
+|#Img6               |click()                                                               |PASS      |51        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |92        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |51        |
+|#modal_Upload_img   |click()                                                               |PASS      |77        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |55        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |39        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |47        |
+|#Img12              |click()                                                               |PASS      |59        |
+|#Img15              |click()                                                               |PASS      |64        |
+|#Img7               |click()                                                               |PASS      |51        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |50        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |54        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |27        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |57        |
+|#Img12              |click()                                                               |PASS      |68        |
+|#Img15              |click()                                                               |PASS      |59        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |54        |
+|#Img7               |click()                                                               |PASS      |51        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |29        |
+|#ibtnUpload         |click()                                                               |PASS      |63        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |64        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |29        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |76        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |56        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |30        |
+|#Img6               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |32        |
+|#ibtnUpload         |click()                                                               |PASS      |71        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |56        |
+|#modal_Upload_img   |click()                                                               |PASS      |79        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |58        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |41        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |45        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |80        |
+|#Img6               |click()                                                               |PASS      |52        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |78        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |57        |
+|#modal_Upload_img   |click()                                                               |PASS      |53        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |62        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |34        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |11        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |58        |
+|#Img12              |click()                                                               |PASS      |77        |
+|#Img15              |click()                                                               |PASS      |57        |
+|#Img6               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |30        |
+|#ibtnUpload         |click()                                                               |PASS      |67        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |89        |
+|#modal_Upload_img   |click()                                                               |PASS      |62        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |62        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |35        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |48        |
+|#Img12              |click()                                                               |PASS      |95        |
+|#Img15              |click()                                                               |PASS      |62        |
+|#Img6               |click()                                                               |PASS      |50        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |35        |
+|#ibtnUpload         |click()                                                               |PASS      |67        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |84        |
+|#modal_Upload_img   |click()                                                               |PASS      |86        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |51        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |30        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |69        |
+|#Img12              |click()                                                               |PASS      |60        |
+|#Img15              |click()                                                               |PASS      |63        |
+|#Img7               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |77        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |50        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |53        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |15        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |57        |
+|#Img12              |click()                                                               |PASS      |68        |
+|#Img15              |click()                                                               |PASS      |59        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |28        |
+|#Img7               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |31        |
+|#ibtnUpload         |click()                                                               |PASS      |61        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |53        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |39        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |47        |
+|#Img12              |click()                                                               |PASS      |69        |
+|#Img15              |click()                                                               |PASS      |55        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |29        |
+|#Img6               |click()                                                               |PASS      |46        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |31        |
+|#ibtnUpload         |click()                                                               |PASS      |67        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |61        |
+|#modal_Upload_img   |click()                                                               |PASS      |53        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |61        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |31        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |82        |
+|#Img12              |click()                                                               |PASS      |66        |
+|#Img15              |click()                                                               |PASS      |72        |
+|#Img6               |click()                                                               |PASS      |52        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |38        |
+|#ibtnUpload         |click()                                                               |PASS      |70        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |60        |
+|#modal_Upload_img   |click()                                                               |PASS      |86        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |49        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |37        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |46        |
+|#Img12              |click()                                                               |PASS      |72        |
+|#Img15              |click()                                                               |PASS      |51        |
+|#Img6               |click()                                                               |PASS      |65        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |72        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |65        |
+|#modal_Upload_img   |click()                                                               |PASS      |53        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |53        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |39        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |71        |
+|#Img12              |click()                                                               |PASS      |88        |
+|#Img15              |click()                                                               |PASS      |61        |
+|#Img6               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |68        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |65        |
+|#modal_Upload_img   |click()                                                               |PASS      |56        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |47        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |33        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |55        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |50        |
+|#Img7               |click()                                                               |PASS      |72        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |49        |
+|#ibtnUpload         |click()                                                               |PASS      |52        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |66        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |39        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |57        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |51        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |44        |
+|#Img7               |click()                                                               |PASS      |59        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |49        |
+|#ibtnUpload         |click()                                                               |PASS      |53        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |58        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |29        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |54        |
+|#Img12              |click()                                                               |PASS      |56        |
+|#Img15              |click()                                                               |PASS      |52        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |28        |
+|#Img6               |click()                                                               |PASS      |47        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |47        |
+|#ibtnUpload         |click()                                                               |PASS      |97        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |63        |
+|#modal_Upload_img   |click()                                                               |PASS      |62        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |54        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |43        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |51        |
+|#Img12              |click()                                                               |PASS      |72        |
+|#Img15              |click()                                                               |PASS      |76        |
+|#Img6               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |52        |
+|#ibtnUpload         |click()                                                               |PASS      |70        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |66        |
+|#modal_Upload_img   |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |52        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |49        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |45        |
+|#Img12              |click()                                                               |PASS      |59        |
+|#Img15              |click()                                                               |PASS      |65        |
+|#Img6               |click()                                                               |PASS      |50        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |84        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |60        |
+|#modal_Upload_img   |click()                                                               |PASS      |56        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |77        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |52        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |47        |
+|#Img12              |click()                                                               |PASS      |83        |
+|#Img15              |click()                                                               |PASS      |53        |
+|#Img6               |click()                                                               |PASS      |49        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |59        |
+|#ibtnUpload         |click()                                                               |PASS      |64        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |59        |
+|#modal_Upload_img   |click()                                                               |PASS      |65        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |49        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |29        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |68        |
+|#Img12              |click()                                                               |PASS      |70        |
+|#Img15              |click()                                                               |PASS      |52        |
+|#Img7               |click()                                                               |PASS      |51        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |55        |
+|#ibtnUpload         |click()                                                               |PASS      |49        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |78        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |33        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |51        |
+|#Img12              |click()                                                               |PASS      |63        |
+|#Img15              |click()                                                               |PASS      |51        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |32        |
+|#Img7               |click()                                                               |PASS      |53        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |61        |
+|#ibtnUpload         |click()                                                               |PASS      |48        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |60        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |42        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |9         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |48        |
+|#Img12              |click()                                                               |PASS      |56        |
+|#Img15              |click()                                                               |PASS      |78        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |30        |
+|#Img6               |click()                                                               |PASS      |46        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |31        |
+|#ibtnUpload         |click()                                                               |PASS      |72        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |87        |
+|#modal_Upload_img   |click()                                                               |PASS      |60        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |52        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |60        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |60        |
+|#Img12              |click()                                                               |PASS      |64        |
+|#Img15              |click()                                                               |PASS      |51        |
+|#Img6               |click()                                                               |PASS      |73        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |66        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |58        |
+|#modal_Upload_img   |click()                                                               |PASS      |60        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |50        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |29        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |79        |
+|#Img12              |click()                                                               |PASS      |70        |
+|#Img15              |click()                                                               |PASS      |62        |
+|#Img6               |click()                                                               |PASS      |48        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |43        |
+|#ibtnUpload         |click()                                                               |PASS      |92        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |87        |
+|#modal_Upload_img   |click()                                                               |PASS      |60        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |82        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |41        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |52        |
+|#Img12              |click()                                                               |PASS      |67        |
+|#Img15              |click()                                                               |PASS      |56        |
+|#Img6               |click()                                                               |PASS      |55        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |36        |
+|#ibtnUpload         |click()                                                               |PASS      |74        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |52        |
+|#modal_Upload_img   |click()                                                               |PASS      |56        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |60        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |27        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |6         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |69        |
+|#Img12              |click()                                                               |PASS      |59        |
+|#Img15              |click()                                                               |PASS      |62        |
+|#Img7               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |40        |
+|#ibtnUpload         |click()                                                               |PASS      |58        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |50        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |38        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |49        |
+|#Img12              |click()                                                               |PASS      |63        |
+|#Img15              |click()                                                               |PASS      |74        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |49        |
+|#Img7               |click()                                                               |PASS      |52        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |PASS      |29        |
+|#ibtnUpload         |click()                                                               |PASS      |54        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |57        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |27        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |6         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |64        |
+|#Img12              |click()                                                               |PASS      |67        |
+|#Img15              |click()                                                               |PASS      |84        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |27        |
+|#Img6               |click()                                                               |PASS      |77        |
+|#FileUpload         |upload file(src\test\resources\test0.xlsx)                            |PASS      |29        |
+|#ibtnUpload         |click()                                                               |PASS      |74        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |58        |
+|#modal_Upload_img   |click()                                                               |PASS      |71        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |63        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |34        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |55        |
+|#Img12              |click()                                                               |PASS      |62        |
+|#Img15              |click()                                                               |PASS      |56        |
+|#Img6               |click()                                                               |PASS      |54        |
+|#FileUpload         |upload file(src\test\resources\test1.docx)                            |PASS      |33        |
+|#ibtnUpload         |click()                                                               |PASS      |92        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |83        |
+|#modal_Upload_img   |click()                                                               |PASS      |51        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |53        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |35        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |12        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |57        |
+|#Img12              |click()                                                               |PASS      |76        |
+|#Img15              |click()                                                               |PASS      |49        |
+|#Img6               |click()                                                               |PASS      |56        |
+|#FileUpload         |upload file(src\test\resources\test2.pptx)                            |PASS      |29        |
+|#ibtnUpload         |click()                                                               |PASS      |75        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |85        |
+|#modal_Upload_img   |click()                                                               |PASS      |53        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |76        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |37        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |8         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |56        |
+|#Img12              |click()                                                               |PASS      |65        |
+|#Img15              |click()                                                               |PASS      |51        |
+|#Img6               |click()                                                               |PASS      |77        |
+|#FileUpload         |upload file(src\test\resources\test3.pdf)                             |PASS      |34        |
+|#ibtnUpload         |click()                                                               |PASS      |86        |
+|#ddlIptPaperSize    |select option(A4)                                                     |PASS      |61        |
+|#modal_Upload_img   |click()                                                               |PASS      |82        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |71        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |32        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |13        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |59        |
+|#Img12              |click()                                                               |PASS      |71        |
+|#Img15              |click()                                                               |PASS      |79        |
+|#Img7               |click()                                                               |PASS      |55        |
+|#FileUpload         |upload file(src\test\resources\test4.png)                             |PASS      |32        |
+|#ibtnUpload         |click()                                                               |PASS      |53        |
+|#ImgFinishJavaScript|click()                                                               |PASS      |51        |
+|#lblHeaderUserID    |should have(text 'ユーザー番号')                                            |PASS      |36        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |14        |
+|By.xpath: .//*[@src="img_ja/ic_stat_ready.png"]|get attribute(src)                                                    |PASS      |7         |
+|#ibtnSelectAllTop   |click()                                                               |PASS      |52        |
+|#Img12              |click()                                                               |PASS      |61        |
+|#Img15              |click()                                                               |PASS      |49        |
+|#lblUsableSpace     |should have(text '0MB')                                               |PASS      |54        |
+|#Img7               |click()                                                               |PASS      |59        |
+|#FileUpload         |upload file(src\test\resources\test5.jpeg)                            |FAIL      |5153      |
++--------------------+----------------------------------------------------------------------+----------+----------+
+ [木 10 11 19:16:19 JST 2018]
+警告: Augmenter should be applied to the instances of @Augmentable classes or previously augmented instances only [木 10 11 19:16:20 JST 2018]
